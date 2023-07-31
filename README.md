@@ -1,7 +1,7 @@
 <h1 align="center"> Movie - IA | BoraCodar#30 </h1>
 
 
-[Clique aqui para acessar]()
+[Clique aqui para acessar](https://bgoomes.github.io/boracodar30/)
 
 ## 🚀 Tecnologias
 
